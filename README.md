@@ -1,4 +1,4 @@
-# AocTimes
+# A visual journey of Advent of Code times
 
 Top 100 times for Advent of code visualized over the years.
 
